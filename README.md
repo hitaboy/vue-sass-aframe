@@ -1,6 +1,6 @@
-# volkswagen
+# VUE+SASS+AFRAME
 
-> Prototype
+> A Boilerplate for Vue.js app with SASS and AFRAME example
 
 ## Build Setup
 
