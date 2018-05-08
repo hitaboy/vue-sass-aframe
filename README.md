@@ -1,6 +1,6 @@
-# VUE+SASS+AFRAME
+# vue-sass-aframe
 
-> A Boilerplate for Vue.js app with SASS and AFRAME example
+> A Boilerplate for Vue.js app with SASS and AFRAME example, and a simple routing
 
 ## Build Setup
 
@@ -16,6 +16,3 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-# vue-sass-aframe
-A Boilerplate for Vue.js app with SASS and AFRAME example
